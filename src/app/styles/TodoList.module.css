@@ -1,0 +1,20 @@
+.todoList {
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+.todoInput {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.todoButton {
+  padding: 10px;
+}
+
+.todoItem {
+  display: flex;
+  justify-content: space-between;
+  margin: 5px 0;
+}
